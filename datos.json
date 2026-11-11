@@ -1,0 +1,15 @@
+{
+    "usuarios": {
+        "admin": {
+            "hash_maestra": "$2b$12$B7Z2nQVgUCDuQcVmxQZb/uiDlrFCLapzrTgLtiM6/GqCCzjDSkEfy",
+            "salt_cifrado": "DLeSk30pZor8pSDr3pddVA==",
+            "contrasenas": [
+                {
+                    "servicio": "escuela",
+                    "usuario": "pepe",
+                    "contrasena_cifrada": "gAAAAABq359a4AgPJQfLYIQbETEHlwF2mP5g2zMUcnPm4XJ4mPVk2JIOePL9yRYGedun2ZWCMOhbFZAHyYIuYckl3K_urMqo0A=="
+                }
+            ]
+        }
+    }
+}
